@@ -1,0 +1,25 @@
+{
+    "name": "leilao-sdk",
+    "version": "1.0.0",
+    "description": "LeilaoIngressos SDK JS",
+    "keywords": [
+        "leilaoingressos",
+        "api",
+        "js",
+        "sdk"
+    ],
+    "contributors": [
+        "Bruno Gonçalves",
+        "Tiago Gonçalves"
+    ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:leilaoingressos/sdk-js.git"
+    },
+    "main": "src/index.js",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "rhinojs": "^1.8.1"
+    }
+}
